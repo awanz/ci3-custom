@@ -5,5 +5,10 @@
 -   Dynamic Base URL
 -   Enable Autoload Helper URL
 -   Enable Autoload Composer
+-   Blade
+    * view_helper
+    * Add Autoload Helper view
+    * .gitignore add /application/views/cache/*.php
+    * Controller + View use Blade
 
 ===================== CodeIgniter Custom ===================== 
