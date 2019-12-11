@@ -1,0 +1,9 @@
+===================== CodeIgniter Custom ===================== 
+
+-   CodeIgniter v3.1.11
+-   Removing the index.php file with .htaccess (apache2)
+-   Dynamic Base URL
+-   Enable Autoload Helper URL
+-   Enable Autoload Composer
+
+===================== CodeIgniter Custom ===================== 
