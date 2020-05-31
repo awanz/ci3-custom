@@ -1,6 +1,6 @@
 {
 	"description": "The CodeIgniter framework Custome by Awan",
-	"name": "awanz/CodeIgniter-Custom",
+	"name": "awan/codeignitercustom",
 	"type": "project",
 	"license": "MIT",
 	"require": {
