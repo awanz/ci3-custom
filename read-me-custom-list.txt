@@ -1,14 +1,18 @@
 ===================== CodeIgniter Custom ===================== 
 
 -   CodeIgniter v3.1.11
-    -   Removing the index.php file with .htaccess (apache2)
-    -   Dynamic Base URL
-    -   Enable Autoload Helper URL
-    -   Enable Autoload Composer
+    * Removing the index.php file with .htaccess (apache2)
+    * Dynamic Base URL
+    * Enable Autoload Helper URL
+    * Enable Autoload Composer
 -   Laravel Mix (https://laravel-mix.com)
-    - Installation Basic
-    - Add NPM Scripts
+    * Installation Basic
+    * Add NPM Scripts
 -   cross-env (https://www.npmjs.com/package/cross-env)
-    - Installation Basic
-
+    * Installation Basic
+-   Blade 
+    * Installation Blade with Composer
+    * Add file view_helper.php to folder helpers
+    * Config file autoload.php for load view helper
+    * Change format file to .blade.php
 ===================== CodeIgniter Custom ===================== 
