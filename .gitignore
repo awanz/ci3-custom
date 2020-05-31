@@ -30,3 +30,6 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 # Blade
 /application/views/cache/*.php
+
+# node_modules
+node_modules
