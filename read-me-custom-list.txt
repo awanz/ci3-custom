@@ -10,5 +10,7 @@
     - Add NPM Scripts
 -   cross-env (https://www.npmjs.com/package/cross-env)
     - Installation Basic
+-   Gentelella (https://github.com/ColorlibHQ/gentelella)
+    - Installation Basic
 
 ===================== CodeIgniter Custom ===================== 
