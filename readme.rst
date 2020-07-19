@@ -45,4 +45,4 @@ agreement <https://github.com/awanz/CodeIgniter-Custom/blob/original/license.txt
 Installation
 ************
 
-git clone -b dev https://github.com/awanz/CodeIgniter-Custom.git ci-gentelella 
+git clone -b laravel-mix-gentelella https://github.com/awanz/CodeIgniter-Custom.git ci-gentelella 
