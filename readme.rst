@@ -46,3 +46,7 @@ Installation
 ************
 
 git clone -b laravel-mix-gentelella https://github.com/awanz/CodeIgniter-Custom.git ci-gentelella 
+
+npm install
+
+npm run dev
